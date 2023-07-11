@@ -1,0 +1,2 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
+<div class="container my-5"><button class="btn btn-primary"><a href="user.php" class="text-light">Add user</a></buttton></div>
